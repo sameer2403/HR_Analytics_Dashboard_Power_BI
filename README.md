@@ -5,6 +5,7 @@ Exciting Project Update: Enhancing Employee Performance and Retention with HR An
 I'm thrilled to share my journey on a project inspired by Rishabh Mishra, focused on empowering organisations to boost employee performance and reduce attrition. The objective is Crafting a dynamic and interactive HR Analytics dashboard using the power of Microsoft Power BI! 🎯
 
 My journey so far has been filled with learning and growth:
+
 ✅ Data Cleaning & Processing in Power BI
 
 ✅ Setting up a Powerful Power BI Dashboard
